@@ -1,5 +1,5 @@
 author = Caseyperi
-version = 0.1.3
+version = 0.1.4
 displayName = Atom Smasher
 hideCode = false
 hideResources = false
