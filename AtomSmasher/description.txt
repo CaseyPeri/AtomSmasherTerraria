@@ -1,5 +1,6 @@
 Adds the Atom Smasher from the Frackin Universe mod for starbound. I've added 6 diffrent variants, for game progression that can be aquired through normal gameplay and crafting. (I am not, and have no intention of profiting off of this) It has a lot of work to do as, i want to get it looking and sounding as similar as possible. Which in it's cureent state does not. And it also has a few glitches here and there I am aware of and actively working on.
 
-As of 0.2.0 all of the sprites have been updated an a MK1s was added for the mehanichal bosses, and MK1s does not require the MK1 for crafting, nor can it be crafted into anything as of now.
+0.2.0: All of the sprites have been updated an a MK1s was added for the mehanichal bosses, and MK1s does not require the MK1 for crafting, nor can it be crafted into anything as of now.
+0.2.1: Minor balance changes and an updated beam texture.
 
 I am working on the visuals for the beam as of now because it could be improved a lot.

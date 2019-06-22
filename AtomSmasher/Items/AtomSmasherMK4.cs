@@ -27,7 +27,7 @@ namespace AtomSmasher.Items
 
 			item.magic = true;
 
-			item.damage = 48;
+			item.damage = 52;
 			item.crit = 0;
 			item.knockBack = 4f;
 			item.UseSound = SoundID.Item33;
