@@ -27,7 +27,7 @@ namespace AtomSmasher.Items
 
 			item.magic = true;
 
-			item.damage = 12;
+			item.damage = 14;
 			item.crit = 0;
 			item.knockBack = 2f;
 			item.UseSound = SoundID.Item33;
@@ -46,10 +46,10 @@ namespace AtomSmasher.Items
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(null, "AtomSmasherMK1", 1);
 			recipe.AddIngredient(ItemID.Actuator, 14);
+			recipe.AddIngredient(ItemID.CrystalShard, 36);
 			recipe.AddIngredient(ItemID.SoulofSight, 12);
 			recipe.AddIngredient(ItemID.HallowedBar, 24);
 			recipe.AddIngredient(ItemID.ChlorophyteBar, 16);
-			recipe.AddIngredient(ItemID.BlackLens, 1);
 			recipe.AddTile(TileID.Anvils);
 			recipe.SetResult(this);
 			recipe.AddRecipe();

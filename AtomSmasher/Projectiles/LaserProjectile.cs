@@ -43,7 +43,7 @@ namespace AtomSmasher.Projectiles
 			projectile.height = 10;
 			projectile.friendly = true;
 			projectile.penetrate = -1;
-			projectile.tileCollide = true;
+			projectile.tileCollide = false;
 			projectile.magic = true;
 			projectile.hide = true;
 		}

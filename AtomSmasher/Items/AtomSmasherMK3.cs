@@ -46,9 +46,10 @@ namespace AtomSmasher.Items
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(null, "AtomSmasherMK2", 1);
 			recipe.AddIngredient(ItemID.EyeoftheGolem, 1);
-			recipe.AddIngredient(ItemID.SoulofSight, 12);
+			recipe.AddIngredient(ItemID.Nanites, 24);
 			recipe.AddIngredient(ItemID.SpectreBar, 28);
 			recipe.AddIngredient(ItemID.ShroomiteBar, 18);
+			recipe.AddIngredient(ItemID.BlackLens, 1);
 			recipe.AddTile(TileID.Anvils);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
