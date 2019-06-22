@@ -1,0 +1,8 @@
+author = Caseyperi
+version = 0.1.1
+displayName = Atom Smasher
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.sln,*.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
